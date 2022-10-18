@@ -1,5 +1,1 @@
-data entered using github, this course
-is for collaboration using git
-lets see how people collaborate hina and ahmad fraz are assigned to the project , 
-remove branch signup
-signup code by ahmad fraz
+file1 hina
