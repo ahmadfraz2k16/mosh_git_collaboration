@@ -1,1 +1,2 @@
-hello
+# saying hello to everyone who sees social login page
+$welcome_message = "hello";
