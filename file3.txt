@@ -1,6 +1,2 @@
-data by ahmad fraz
-andrew <i class="fas fa-table-tennis fa-xs fa-fw"></i>
-added <i class="fa fa-html5" aria-hidden="true"></i>
-alpha bravo charlie
-mad max fury
-bad boys
+# saying hello to everyone who sees social login page
+$welcome_message = "hello";
